@@ -1,0 +1,7 @@
+User_ID,User,Movie_ID,Movie,Genre,Rating
+101,Nisarg,1,Inception,Sci-Fi,5
+102,Aryan,1,Inception,Sci-Fi,4
+103,Dhruv,2,Interstellar,Sci-Fi,5
+101,Nisarg,2,Interstellar,Sci-Fi,4
+102,Aryan,3,Titanic,Romance,5
+103,Dhruv,1,Inception,Sci-Fi,3
